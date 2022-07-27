@@ -1,2 +1,4 @@
-import numpy as np
+
 my name is iman ilyas
+MY QUALIFICATION IS ms
+IMPOERT [ANDAS AS PD
